@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>todoapp</finalName>
+    <finalName>todoapp2</finalName>
   </build>
 </project>
